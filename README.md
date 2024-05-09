@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:10/04/2024
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -449,8 +449,8 @@ background: url(WhatsApp Image 2023-11-06 at 11.28.jpg);
 ```
 
 ##output
+![image](https://github.com/karnashankar/Figma/assets/121109150/27b27788-2168-4017-8190-38a7bbbbfbf9)
 
-![image](https://github.com/karnashankar/Figma/assets/121109150/e8daaffa-b12b-43a5-a1e8-0be3cfae5c2a)
 
 
 
